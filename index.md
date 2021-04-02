@@ -106,4 +106,4 @@ filename: NAME OF THIS .md FILE HERE
 
 Commit your changes and push them to the gh-pages branch
 
-Now, when you go to `YOURGITHUBNAME.github.io/YOURPROJECTNAME`, you should see a link to your new page. When you click this link, you should see your new page formatted with the theme that you chose.
+Now, when you go to `YOURGITHUBNAME.github.io/YOURPROJECTNAME`, you should see a link to your new page. When you click this link, you should see your new page formatted with the theme that you chose. 
