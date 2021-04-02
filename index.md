@@ -1,4 +1,8 @@
-
+---
+title: PyDHM
+layout: template
+filename: index
+--- 
 
 .. toctree::
    :maxdepth: 2
