@@ -21,7 +21,7 @@ You can use the [editor on GitHub](https://github.com/OIRL/PyDHM/edit/gh-pages/i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-<p>Capítulo 1: <a href="index1.html">pulsar quí</a></p>
+<p>Capítulo 1: <a href="Propagation.md">pulsar quí</a></p>
 
 ### Markdown
 
