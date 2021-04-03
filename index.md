@@ -22,6 +22,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 <p>Capítulo 1: <a href="index1.html">pulsar quí</a></p>
+<p>Capítulo 1: <a href="propagation.md">pulsar quí</a></p>
 
 ### Markdown
 
