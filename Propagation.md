@@ -1,5 +1,5 @@
 layout: page
 title: "Propagation"
-permalink: https://oirl.github.io/PyDHM/propagation.html
+permalink: https://oirl.github.io/PyDHM/propagation.md
 
 # Propagation
