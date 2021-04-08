@@ -22,7 +22,7 @@ This project has received funding from the University of Memphis and EAFIT unive
 
 
 ### Citation
-If using pyDHM for publication, please kindly cite the following: R. Castaneda, C. Trujill and A. Doblas, "PyDHM Library for numerical reconstructions of holograms ," 
+If using pyDHM for publication, please kindly cite the following: R. Castaneda, C. Trujillo and A. Doblas, "PyDHM Library for numerical reconstructions of holograms ," 
 
 
 ### Support or Contact
