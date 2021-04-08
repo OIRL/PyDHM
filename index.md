@@ -19,8 +19,9 @@ If using tuDHM for publication, please kindly cite the following: R. Castaneda, 
 
 | Researcher  | email | Google Scholar | ResearchGate |
 | ------------- | ------------- |-------------| -------------|
-| Raul Castaneda | *rcstdq@memphis.edu* | [RaulGoogle](https://scholar.google.com/citations?user=RBtkL1oAAAAJ&hl=en) | [RaulResearch](https://www.researchgate.net/profile/Raul_Castaneda_Quintero)
-| Ana Doblas| *adoblas@memphis.edu* | [AnaGoogle](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) | [AnaResearch](https://www.researchgate.net/profile/Ana_Doblas2) |
+| Raul Castaneda | *rcstdq@memphis.edu* | [Google Scholar](https://scholar.google.com/citations?user=RBtkL1oAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Raul_Castaneda_Quintero)
+| Ana Doblas| *adoblas@memphis.edu* | [Google Scholar](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Ana_Doblas2) | 
+Carlos Trujillo| *catrujilla@eafit.edu.co* | [CarlosGoogle](https://scholar.google.com/citations?user=BKVrl2gAAAAJ&hl=en) |  |
 
 
 The main researcher of tuDHM project is Ana Doblas 
