@@ -12,7 +12,7 @@ All these formalisms allow computing the wavefield in an output plane on a given
 ### PyDHM.Implementations
 This package focuses on useful algorithms for recovering the complex object field of holograms recorded under the digital holography microscopy technique. 
 
-The functions that contain this package are `DHM` ,and `RawBlindShifting`.   
+The functions that contain this package are `DHM` ,and **RawBlindShifting**.   
 
 ### Funding
 This project has received funding from the University of Memphis and EAFIT university.
@@ -39,17 +39,7 @@ Carlos Trujillo| *catrujilla@eafit.edu.co* | [Google Scholar](https://scholar.go
 
 
 
-PyDHM was developed by the cooperation of OIRL research group form The University of Memphis and the EAFIT university.  
 
-PyDHM contains two main packages, propagation approaches PyDHM.propagation and DHM implementations PyDHM.Implementations. Below an explanation of each package. 
-
-You can use the [editor on GitHub](https://github.com/OIRL/PyDHM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-<p>Capítulo 1: <a href="index1.html">pulsar quí</a></p>
-<p>Capítulo 1: <a href="propagation.md">pulsar quí</a></p>
 
 ### Markdown
 
