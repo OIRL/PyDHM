@@ -12,19 +12,21 @@ This project has received funding from the University of Memphis and university 
 
 
 ### Citation
-If using tuDHM for publication, please kindly cite the following: R. Castaneda, C. Trujilland A. Doblas, "PyDHM Library for numerical reconstructions of holograms ," 
+If using pyDHM for publication, please kindly cite the following: R. Castaneda, C. Trujill and A. Doblas, "PyDHM Library for numerical reconstructions of holograms ," 
 
 
 ### Support or Contact
+
+PyDHM was developed by the cooperation of two optics research groups ORIL from The University of Memphis and [applied optics](https://www.memphis.edu/eece/people.php), and [Dr. Carlos Trujillo] (https://www.eafit.edu.co/docentes-investigadores/Paginas/carlos-alejandro-trujillo-anaya.aspx), respectively. 
 
 | Researcher  | email | Google Scholar | ResearchGate |
 | ------------- | ------------- |-------------| -------------|
 | Raul Castaneda | *rcstdq@memphis.edu* | [Google Scholar](https://scholar.google.com/citations?user=RBtkL1oAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Raul_Castaneda_Quintero)
 | Ana Doblas| *adoblas@memphis.edu* | [Google Scholar](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Ana_Doblas2) | 
-Carlos Trujillo| *catrujilla@eafit.edu.co* | [CarlosGoogle](https://scholar.google.com/citations?user=BKVrl2gAAAAJ&hl=en) |  |
+Carlos Trujillo| *catrujilla@eafit.edu.co* | [Google Scholar](https://scholar.google.com/citations?user=BKVrl2gAAAAJ&hl=en) |  |
 
 
-The main researcher of tuDHM project is Ana Doblas 
+
 
 PyDHM was developed by the cooperation of OIRL research group form The University of Memphis and the EAFIT university.  
 
