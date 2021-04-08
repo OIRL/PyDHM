@@ -3,8 +3,18 @@
 
 PyDHM is a useful python library created to obtain numerical reconstructions for holograms recorded or simulated in digital holography (DH) and digital holography microscopic (DHM). However, due to the physics fundamentals of the numerical reconstruction for holograms, PyDHM can be used for the numerical propagation of scalar wave fields.
 
+PyDHM contains two main packages, propagation approaches `PyDHM.propagation` and DHM implementations `PyDHM.implementations`. Below an explanation of each package. 
+ 
+### PyDHM.propagation  
+This package is focused on the conventional formalisms used for computing the scalar propagation of scalar wave fields. The approaches that contain this package are the `angular spectrum`, `Fresnel transform`, and `Fresnel-Bluestein transforms`.
+
+All these formalisms allow computing the wavefield in an output plane on a given input plane in different propagation distances.s. 
+
+### PyDHM.Implementations
+This package contains three specifics python implementations for algorithms (tuDHM, three raw blind shifting, two raw blind shifting ) used for obtains the complex object information for holograms recorded in digital holography microscopic technique.
+
 ### Funding
-This project has received funding from the University of Memphis and university EAFIT
+This project has received funding from the University of Memphis and EAFIT university.
 
 
 ### Credits
