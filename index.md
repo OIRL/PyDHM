@@ -1,16 +1,9 @@
 
-
-.. toctree::
-   :maxdepth: 2
-
-   releasenotes
-   tutorial/index
-   users/index
-   reference/holopy
-
 ## PyDHM Python library for numerical reconstructions of holograms 
 
-PyDHM is a python library to mainly obtain numerical reconstructions for holograms in digital holography and digital holography microscopic.  Besides, PyDHM can be used to numerical propagation of scalar wave fields.
+PyDHM is a useful python library created to obtain numerical reconstructions for holograms recorded or simulated in digital holography (DH) and digital holography microscopic (DHM). However, due to the physics fundamentals of the numerical reconstruction for holograms, PyDHM can be used for the numerical propagation of scalar wave fields.
+
+
 
 PyDHM was developed by the cooperation of OIRL research group form The University of Memphis and the EAFIT university.  
 
