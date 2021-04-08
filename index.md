@@ -28,7 +28,7 @@ If using pyDHM for publication, please kindly cite the following: R. Castaneda, 
 
 ### Support or Contact
 
-PyDHM was developed by the cooperation of two optics research groups ORIL from The University of Memphis and [applied optics](https://www.memphis.edu/eece/people.php), and [Dr. Carlos Trujillo] (https://www.eafit.edu.co/docentes-investigadores/Paginas/carlos-alejandro-trujillo-anaya.aspx), respectively. 
+PyDHM was developed by the cooperation of two optics research groups, ORIL from The University of Memphis and [applied optics](https://www.memphis.edu/eece/people.php) from the EAFIT university. Handled by [Dr. Ana doblas](https://www.memphis.edu/eece/people.php) and [Dr. Carlos Trujillo](https://www.eafit.edu.co/docentes-investigadores/Paginas/carlos-alejandro-trujillo-anaya.aspx), respectively. 
 
 | Researcher  | email | Google Scholar | ResearchGate |
 | ------------- | ------------- |-------------| -------------|
